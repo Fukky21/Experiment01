@@ -1,0 +1,5 @@
+.vscode
+*.csproj
+*.sln
+/Library/
+/Results/
